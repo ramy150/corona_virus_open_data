@@ -10,274 +10,275 @@
     },
     {
       "id": "2",
-      "date": "2020-03-02T11:00:00.000Z",
+      "date": "2020-03-02T01:55:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "FRA",
       "infection_source": "unknown"
     },
     {
       "id": "3",
-      "date": "2020-03-02T11:00:00.000Z",
+      "date": "2020-03-02T01:55:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "FRA",
       "infection_source": "unknown"
     },
     {
       "id": "4",
-      "date": "2020-03-03T11:00:00.000Z",
+      "date": "2020-03-02T20:37:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "5",
-      "date": "2020-03-03T11:00:00.000Z",
+      "date": "2020-03-02T20:37:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "6",
-      "date": "2020-03-04T11:00:00.000Z",
+      "date": "2020-03-03T20:01:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "7",
-      "date": "2020-03-04T11:00:00.000Z",
+      "date": "2020-03-03T20:01:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "8",
-      "date": "2020-03-04T11:00:00.000Z",
+      "date": "2020-03-03T20:01:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "9",
-      "date": "2020-03-04T11:00:00.000Z",
+      "date": "2020-03-04T15:59:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "10",
-      "date": "2020-03-04T11:00:00.000Z",
+      "date": "2020-03-04T15:59:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "11",
-      "date": "2020-03-04T11:00:00.000Z",
+      "date": "2020-03-04T15:59:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "12",
-      "date": "2020-03-04T11:00:00.000Z",
+      "date": "2020-03-04T15:59:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "13",
-      "date": "2020-03-06T11:00:00.000Z",
+      "date": "2020-03-04T20:03:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "14",
-      "date": "2020-03-06T11:00:00.000Z",
+      "date": "2020-03-04T20:03:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "15",
-      "date": "2020-03-06T11:00:00.000Z",
+      "date": "2020-03-04T20:03:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "16",
-      "date": "2020-03-06T11:00:00.000Z",
+      "date": "2020-03-04T20:03:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "17",
-      "date": "2020-03-06T11:00:00.000Z",
+      "date": "2020-03-04T20:03:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
+
     {
       "id": "18",
-      "date": "2020-03-08T11:00:00.000Z",
+      "date": "2020-03-07T10:34:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "19",
-      "date": "2020-03-08T11:00:00.000Z",
-      "wilaya": "Blida",
-      "infection_source_country": "ALG",
-      "infection_source": 3
+      "date": "2020-03-07T10:34:00.000Z",
+      "wilaya": "Blida", # NOT SURE
+      "infection_source_country": "ESP", # NOT SURE
+      "infection_source": "unknown"
     },
     {
       "id": "20",
-      "date": "2020-03-09T11:00:00.000Z",
-      "wilaya": "Blida",
-      "infection_source_country": "ALG",
-      "infection_source": 3
+      "date": "2020-03-08T12:48:00.000Z",
+      "wilaya": "Blida", # NOT SURE
+      "infection_source_country": "ESP",
+      "infection_source": "unknown"
     },
     {
       "id": "21",
-      "date": "2020-03-12T11:00:00.000Z",
-      "wilaya": "Blida",
+      "date": "2020-03-12T12:49:00.000Z",
+      "wilaya": "Souk-Ahras",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "22",
-      "date": "2020-03-12T11:00:00.000Z",
-      "wilaya": "Blida",
+      "date": "2020-03-12T12:49:00.000Z",
+      "wilaya": "Tizi-Ouzou",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "23",
-      "date": "2020-03-12T11:00:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "24",
-      "date": "2020-03-12T11:00:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "25",
-      "date": "2020-03-13T11:00:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "26",
-      "date": "2020-03-13T11:00:00.000Z",
+      "date": "2020-03-12T20:01:00.000Z", # No information
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
-    # %%%%%%%%%%%
 
     {
       "id": "27",
-      "date": "2020-03-14T11:00:00.000Z",
-      "wilaya": "Blida",
-      "infection_source_country": "ALG",
-      "infection_source": 3
+      "date": "2020-03-13T20:04:00.000Z",
+      "wilaya": "Alger",
+      "infection_source_country": "FRA",
+      "infection_source": "unknown"
     },
+
     {
       "id": "28",
-      "date": "2020-03-14T11:00:00.000Z",
+      "date": "2020-03-14T08:59:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "29",
-      "date": "2020-03-14T11:00:00.000Z",
+      "date": "2020-03-14T08:59:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "30",
-      "date": "2020-03-14T11:00:00.000Z",
+      "date": "2020-03-14T08:59:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "31",
-      "date": "2020-03-14T11:00:00.000Z",
+      "date": "2020-03-14T08:59:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "32",
-      "date": "2020-03-14T11:00:00.000Z",
+      "date": "2020-03-14T08:59:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "33",
-      "date": "2020-03-14T11:00:00.000Z",
+      "date": "2020-03-14T08:59:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "34",
-      "date": "2020-03-14T11:00:00.000Z",
+      "date": "2020-03-14T08:59:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
     },
     {
       "id": "35",
-      "date": "2020-03-14T11:00:00.000Z",
-      "wilaya": "Blida",
-      "infection_source_country": "ALG",
-      "infection_source": 3
+      "date": "2020-03-14T08:59:00.000Z",
+      "wilaya": "Tizi-Ouzou",
+      "infection_source_country": "FRA", # NOT SURE
+      "infection_source": "unknown"
     },
     {
       "id": "36",
-      "date": "2020-03-14T11:00:00.000Z",
-      "wilaya": "Blida",
-      "infection_source_country": "ALG",
-      "infection_source": 3
+      "date": "2020-03-14T08:59:00.000Z",
+      "wilaya": "Tizi-Ouzou",
+      "infection_source_country": "FRA", # NOT SURE
+      "infection_source": "unknown"
     },
     {
       "id": "37",
-      "date": "2020-03-14T11:00:00.000Z",
-      "wilaya": "Blida",
-      "infection_source_country": "ALG",
-      "infection_source": 3
+      "date": "2020-03-14T08:59:00.000Z",
+      "wilaya": "Alger",
+      "infection_source_country": "FRA", # NOT SURE
+      "infection_source": "unknown"
     }
   ],
   "deaths":
   [
     {
       "id": 1,
-      "date": "2020-03-12T10:00:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida"
     },
     {
       "id": 2,
-      "date": "2020-03-13T10:00:00.000Z",
+      "date": "2020-03-12T20:01:00.000Z",
       "wilaya": "Blida"
     },
     {
       "id": 3,
-      "date": "2020-03-14T10:00:00.000Z",
+      "date": "2020-03-14T08:59:00.000Z",
       "wilaya": "Blida"
     }
   ],
@@ -285,42 +286,42 @@
   [
     {
       "id": 1,
-      "date": "2020-03-12T10:00:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida"
     },
     {
       "id": 2,
-      "date": "2020-03-12T08:45:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida"
     },
     {
       "id": 3,
-      "date": "2020-03-12T10:00:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida"
     },
     {
       "id": 4,
-      "date": "2020-03-12T08:45:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida"
     },
     {
       "id": 5,
-      "date": "2020-03-12T10:00:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida"
     },
     {
       "id": 6,
-      "date": "2020-03-12T08:45:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida"
     },
     {
       "id": 7,
-      "date": "2020-03-12T10:00:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida"
     },
     {
       "id": 8,
-      "date": "2020-03-12T08:45:00.000Z",
+      "date": "2020-03-12T12:49:00.000Z",
       "wilaya": "Blida"
     }
   ]
