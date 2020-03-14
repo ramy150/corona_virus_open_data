@@ -262,6 +262,67 @@
       "infection_source_country": "ALG",
       "infection_source": 3
     }
+  ],
+  "deaths":
+  [
+    {
+      "id": 1,
+      "date": "2020-03-12T10:00:00.000Z",
+      "wilaya": "Blida"
+    },
+    {
+      "id": 2,
+      "date": "2020-03-13T10:00:00.000Z",
+      "wilaya": "Blida"
+    },
+    {
+      "id": 3,
+      "date": "2020-03-14T10:00:00.000Z",
+      "wilaya": "Blida"
+    }
+  ],
+  "recovered":
+  [
+    {
+      "id": 1,
+      "date": "2020-03-12T10:00:00.000Z",
+      "wilaya": "Blida"
+    },
+    {
+      "id": 2,
+      "date": "2020-03-12T08:45:00.000Z",
+      "wilaya": "Blida"
+    },
+    {
+      "id": 3,
+      "date": "2020-03-12T10:00:00.000Z",
+      "wilaya": "Blida"
+    },
+    {
+      "id": 4,
+      "date": "2020-03-12T08:45:00.000Z",
+      "wilaya": "Blida"
+    },
+    {
+      "id": 5,
+      "date": "2020-03-12T10:00:00.000Z",
+      "wilaya": "Blida"
+    },
+    {
+      "id": 6,
+      "date": "2020-03-12T08:45:00.000Z",
+      "wilaya": "Blida"
+    },
+    {
+      "id": 7,
+      "date": "2020-03-12T10:00:00.000Z",
+      "wilaya": "Blida"
+    },
+    {
+      "id": 8,
+      "date": "2020-03-12T08:45:00.000Z",
+      "wilaya": "Blida"
+    }
   ]
 
 
