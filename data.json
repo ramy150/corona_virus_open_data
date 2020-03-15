@@ -262,6 +262,83 @@
       "wilaya": "Alger",
       "infection_source_country": "FRA", # NOT SURE
       "infection_source": "unknown"
+    },
+    {
+      "id": "38",
+      "date": "2020-03-15T11:47:00.000Z",
+      "wilaya": "Blida",
+      "infection_source_country": "ALG",
+      "infection_source": 3
+    },
+    {
+      "id": "39",
+      "date": "2020-03-15T11:47:00.000Z",
+      "wilaya": "Blida",
+      "infection_source_country": "ALG",
+      "infection_source": 3
+    },
+    {
+      "id": "40",
+      "date": "2020-03-15T11:47:00.000Z",
+      "wilaya": "Blida",
+      "infection_source_country": "ALG",
+      "infection_source": 3
+    },
+    {
+      "id": "41",
+      "date": "2020-03-15T11:47:00.000Z",
+      "wilaya": "Blida",
+      "infection_source_country": "ALG",
+      "infection_source": 3
+    },
+    {
+      "id": "42",
+      "date": "2020-03-15T11:47:00.000Z",
+      "wilaya": "Blida",
+      "infection_source_country": "ALG",
+      "infection_source": 3
+    },
+    {
+      "id": "43",
+      "date": "2020-03-15T11:47:00.000Z",
+      "wilaya": "Blida",
+      "infection_source_country": "ALG",
+      "infection_source": 3
+    },
+    {
+      "id": "44",
+      "date": "2020-03-15T11:47:00.000Z",
+      "wilaya": "Blida",
+      "infection_source_country": "ALG",
+      "infection_source": 3
+    },
+    {
+      "id": "45",
+      "date": "2020-03-15T11:47:00.000Z",
+      "wilaya": "Blida",
+      "infection_source_country": "ALG",
+      "infection_source": 3
+    },
+    {
+      "id": "46",
+      "date": "2020-03-15T11:47:00.000Z",
+      "wilaya": "Blida",
+      "infection_source_country": "ALG",
+      "infection_source": 3
+    },
+    {
+      "id": "47",
+      "date": "2020-03-15T11:47:00.000Z",
+      "wilaya": "Guelma",
+      "infection_source_country": "FRA",
+      "infection_source": "unknown"
+    },
+    {
+      "id": "48",
+      "date": "2020-03-15T11:47:00.000Z",
+      "wilaya": "Guelma",
+      "infection_source_country": "FRA",
+      "infection_source": "unknown"
     }
   ],
   "deaths":
@@ -279,6 +356,11 @@
     {
       "id": 3,
       "date": "2020-03-14T08:59:00.000Z",
+      "wilaya": "Blida"
+    },
+    {
+      "id": 4,
+      "date": "2020-03-15T11:47:00.000Z",
       "wilaya": "Blida"
     }
   ],
