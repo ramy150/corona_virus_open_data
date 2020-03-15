@@ -131,14 +131,14 @@
     {
       "id": "19",
       "date": "2020-03-07T10:34:00.000Z",
-      "wilaya": "Blida", # NOT SURE
-      "infection_source_country": "ESP", # NOT SURE
+      "wilaya": "Blida",
+      "infection_source_country": "ESP",
       "infection_source": "unknown"
     },
     {
       "id": "20",
       "date": "2020-03-08T12:48:00.000Z",
-      "wilaya": "Blida", # NOT SURE
+      "wilaya": "Blida",
       "infection_source_country": "ESP",
       "infection_source": "unknown"
     },
@@ -179,7 +179,7 @@
     },
     {
       "id": "26",
-      "date": "2020-03-12T20:01:00.000Z", # No information
+      "date": "2020-03-12T20:01:00.000Z",
       "wilaya": "Blida",
       "infection_source_country": "ALG",
       "infection_source": 3
@@ -246,21 +246,21 @@
       "id": "35",
       "date": "2020-03-14T08:59:00.000Z",
       "wilaya": "Tizi-Ouzou",
-      "infection_source_country": "FRA", # NOT SURE
+      "infection_source_country": "FRA",
       "infection_source": "unknown"
     },
     {
       "id": "36",
       "date": "2020-03-14T08:59:00.000Z",
       "wilaya": "Tizi-Ouzou",
-      "infection_source_country": "FRA", # NOT SURE
+      "infection_source_country": "FRA",
       "infection_source": "unknown"
     },
     {
       "id": "37",
       "date": "2020-03-14T08:59:00.000Z",
       "wilaya": "Alger",
-      "infection_source_country": "FRA", # NOT SURE
+      "infection_source_country": "FRA",
       "infection_source": "unknown"
     },
     {
