@@ -339,7 +339,49 @@
       "healthCareDistrict": "Guelma",
       "infectionSourceCountry": "FRA",
       "infectionSource": "unknown"
-    }
+    },
+    {
+      "id": "49",
+      "date": "2020-03-15T20:03:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": 3
+    },
+    {
+      "id": "50",
+      "date": "2020-03-15T20:03:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": 3
+    },
+    {
+      "id": "51",
+      "date": "2020-03-15T20:03:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": 3
+    },
+    {
+      "id": "52",
+      "date": "2020-03-15T20:03:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": 3
+    },
+    {
+      "id": "53",
+      "date": "2020-03-15T20:03:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": 3
+    },
+    {
+      "id": "54",
+      "date": "2020-03-15T20:03:00.000Z",
+      "healthCareDistrict": "Adrar",
+      "infectionSourceCountry": "IRN",
+      "infectionSource": "unknown"
+    },
   ],
   "deaths":
   [
