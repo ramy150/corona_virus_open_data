@@ -407,21 +407,21 @@
       "id": "58",
       "date": "2020-03-16T18:34:00.000Z",
       "healthCareDistrict": "Bordj Bou-Arreridj",
-      "infectionSourceCountry": "ALG",
+      "infectionSourceCountry": "FRA",
       "infectionSource": "unknown"
     },
     {
       "id": "59",
       "date": "2020-03-16T18:34:00.000Z",
       "healthCareDistrict": "Tizi-Ouzou",
-      "infectionSourceCountry": "ALG",
+      "infectionSourceCountry": "FRA",
       "infectionSource": "unknown"
     },
     {
       "id": "60",
       "date": "2020-03-16T18:34:00.000Z",
       "healthCareDistrict": "Annaba",
-      "infectionSourceCountry": "ALG",
+      "infectionSourceCountry": "FRA",
       "infectionSource": "unknown"
     }
   ],
