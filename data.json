@@ -455,24 +455,59 @@
     {
       "id": "65",
       "date": "2020-03-18T08:27:00.000Z",
-      "healthCareDistrict": "Blida",
+      "healthCareDistrict": "Alger",
       "infectionSourceCountry": "ALG",
-      "infectionSource": 3
+      "infectionSource": "unknown"
     },
     {
       "id": "66",
       "date": "2020-03-18T08:27:00.000Z",
-      "healthCareDistrict": "Blida",
+      "healthCareDistrict": "Alger",
       "infectionSourceCountry": "ALG",
-      "infectionSource": 3
+      "infectionSource": "unknown"
     },
     {
       "id": "67",
       "date": "2020-03-18T08:27:00.000Z",
-      "healthCareDistrict": "Blida",
+      "healthCareDistrict": "Alger",
       "infectionSourceCountry": "ALG",
-      "infectionSource": 3
-    }
+      "infectionSource": "unknown"
+    },
+    {
+      "id": "68",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Alger",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": "unknown"
+    },
+    {
+      "id": "69",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Béjaïa",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": "unknown"
+    },
+    {
+      "id": "70",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Skikda",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": "unknown"
+    },
+    {
+      "id": "71",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Tizi-Ouzou",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": "unknown"
+    },
+    {
+      "id": "72",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Médéa",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": "unknown"
+    },
   ],
   "deaths":
   [
