@@ -423,6 +423,55 @@
       "healthCareDistrict": "Annaba",
       "infectionSourceCountry": "FRA",
       "infectionSource": "unknown"
+    },
+    {
+      "id": "61",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": 3
+    },
+    {
+      "id": "62",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": 3
+    },
+    {
+      "id": "63",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": 3
+    },
+    {
+      "id": "64",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": 3
+    },
+    {
+      "id": "65",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": 3
+    },
+    {
+      "id": "66",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "ALG",
+      "infectionSource": 3
+    },
+    {
+      "id": "67",
+      "date": "2020-03-18T08:27:00.000Z",
+      "healthCareDistrict": "Blida",
+      "infectionSourceCountry": "FRA",
+      "infectionSource": 3
     }
   ],
   "deaths":
@@ -445,6 +494,16 @@
     {
       "id": 4,
       "date": "2020-03-15T11:47:00.000Z",
+      "healthCareDistrict": "Blida"
+    },
+    {
+      "id": 5,
+      "date": "2020-03-18T10:58:00.000Z",
+      "healthCareDistrict": "Blida"
+    },
+    {
+      "id": 6,
+      "date": "2020-03-18T10:58:00.000Z",
       "healthCareDistrict": "Blida"
     }
   ],
